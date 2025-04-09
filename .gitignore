@@ -1,1 +1,5 @@
-.venv
+.venv/*
+test/*
+creds.py
+
+__pycache__/*
