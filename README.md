@@ -130,11 +130,11 @@ Flask-PyMongo
 ```
 ---
 ## Screenshots
-![IMAGE]('images/Screenshot (156).png')
-![IMAGE]('images/Screenshot (157).png')
-![IMAGE]('images/Screenshot (158).png')
-![IMAGE]('images/Screenshot (159).png')
-![IMAGE]('images/Screenshot (160).png')
-![IMAGE]('images/Screenshot (161).png')
-![IMAGE]('images/Screenshot (162).png')
-![IMAGE]('images/Screenshot (163).png')
+![IMAGE](images/Screenshot(156).png)
+![IMAGE](images/Screenshot(157).png)
+![IMAGE](images/Screenshot(158).png)
+![IMAGE](images/Screenshot(159).png)
+![IMAGE](images/Screenshot(160).png)
+![IMAGE](images/Screenshot(161).png)
+![IMAGE](images/Screenshot(162).png)
+![IMAGE](images/Screenshot(163).png)
