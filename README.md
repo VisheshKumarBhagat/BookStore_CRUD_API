@@ -89,8 +89,8 @@ A simple, secure REST API built with Flask for managing a bookstore. It supports
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/VisheshKumarBhagat/BookStore_CRUD_API
+cd BookStore_CRUD_API
 ```
 
 ### 2. Create & Activate a Virtual Environment (optional but recommended)
